@@ -1,4 +1,4 @@
-//Specification file for numbers class.
+//Specification file for numbers class..
 #ifndef NUMBERS_H
 #define NUMBERS_H
 #include<string>
