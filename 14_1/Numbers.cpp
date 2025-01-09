@@ -19,6 +19,7 @@ void Numbers::print()
 	//Declare varibles
 	string numname;//Holds word equivalent
 	int temp = number;
+ int yolo = 0;
 
 	
 	if((temp/1000) >= 1)//"1" checking for thousands place value
