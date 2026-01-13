@@ -12,7 +12,7 @@ using namespace std;
 ***then the first digit has a thousandth place value, the same operation is passed into the index of string array 'numbers_lessthan_20' 
 ***and returns the word equivalent of that number and adds it to the string numname, after that the postfix thousand is added
 ***the other values are then determined and coverted to words with their postfix and prefixes set.
-* Tests "2", "3", and "4" follow the same procedure only that they check hundreds, tens, and ones place values respectively yes
+* Tests "2", "3", and "4" follow the same procedure only that they check hundreds, tens, and ones place values respectively yes.
 **************************************************************************************************************************************/
 void Numbers::print()
  {
